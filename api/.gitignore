@@ -1,0 +1,7 @@
+# COMMON
+
+__pycache__/
+
+# CUSTOM
+
+settings_local.py

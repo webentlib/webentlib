@@ -1,0 +1,9 @@
+# COMMON
+
+build/
+.svelte-kit/
+node_modules/
+
+# CUSTOM
+
+config.local.js
