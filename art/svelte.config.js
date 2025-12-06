@@ -15,7 +15,7 @@ const config = {
 		files: {
 			assets: 'assets/',
 			routes: 'lex/router/routes/',
-			errorTemplate: 'router/error.html',
+			errorTemplate: 'lex/router/error.html',
 			hooks: {
 				server: 'hooks.server.js',
 			}
